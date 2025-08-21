@@ -16,7 +16,7 @@ export default function Custom500() {
         />
       </div>
       <h2 className="text-2xl font-semibold text-gray-600 mb-2">
-        Desolé, La panne vient de nous. Pas vous XD
+        Desolé, La panne vient de nous. Pas de vous XD
       </h2>
       <p className="text-gray-500 mb-10">
         Nous sommes en cours de maintenance. Revenez dans<br />
